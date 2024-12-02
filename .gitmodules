@@ -13,3 +13,6 @@
 [submodule "blockgame-profiles"]
 	path = blockgame-profiles
 	url = https://github.com/blackjack26/blockgame-profiles
+[submodule "blockgame-journal"]
+	path = blockgame-journal
+	url = https://github.com/blackjack26/blockgame-journal
