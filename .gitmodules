@@ -7,3 +7,6 @@
 [submodule "blockgame-registry"]
 	path = blockgame-registry
 	url = https://github.com/ghzeni/blockgame-registry
+[submodule "blockgame-enhanced"]
+	path = blockgame-enhanced
+	url = https://github.com/jb0s/blockgame-enhanced
