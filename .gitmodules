@@ -16,3 +16,6 @@
 [submodule "blockgame-journal"]
 	path = blockgame-journal
 	url = https://github.com/blackjack26/blockgame-journal
+[submodule "blockgame-tooltips"]
+	path = blockgame-tooltips
+	url = https://github.com/BluePanda222/blockgame-tooltips
