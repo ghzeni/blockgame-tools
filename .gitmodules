@@ -1,3 +1,6 @@
 [submodule "blockgame-guide"]
 	path = blockgame-guide
 	url = git@github.com:ghzeni/blockgame-guide.git
+[submodule "blockgame-hydrated"]
+	path = blockgame-hydrated
+	url = https://github.com/ghzeni/blockgame-hydrated
