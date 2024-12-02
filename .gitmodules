@@ -10,3 +10,6 @@
 [submodule "blockgame-enhanced"]
 	path = blockgame-enhanced
 	url = https://github.com/jb0s/blockgame-enhanced
+[submodule "blockgame-profiles"]
+	path = blockgame-profiles
+	url = https://github.com/blackjack26/blockgame-profiles
