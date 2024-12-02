@@ -4,3 +4,6 @@
 [submodule "blockgame-hydrated"]
 	path = blockgame-hydrated
 	url = https://github.com/ghzeni/blockgame-hydrated
+[submodule "blockgame-registry"]
+	path = blockgame-registry
+	url = https://github.com/ghzeni/blockgame-registry
